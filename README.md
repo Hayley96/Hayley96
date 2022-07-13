@@ -39,9 +39,18 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hayley96&theme=dark&background=000000)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayley96&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayley96&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div float="left" align="middle">
+<img width="48% height="49%" src="https://github-readme-stats.vercel.app/api?username=Hayley96&show_icons=true&theme=highcontrast&repo=github-readme-stats" />
+<img width="48%" height="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Hayley96&theme=dark&background=000000" />
+</div></br>
+
+<div float="left" align="middle">
+<img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayley96&layout=compact&theme=vision-friendly-dark" />
+</div>
+
+
+
+
 
 
 
