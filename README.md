@@ -1,17 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vXZJBKjb0UtpFWzvpQ/giphy.gif" width="100"/>
   
-  ### Hi there, I'm Hayley Jonas👋
-  
+  ### Hi there, I'm Hayley! 👋
   ### **I'm a Software Engineer, Technology Enthusiast, Movie Buff, Sports Fan, and Traveller**
 </div>
 
-
-
-
 ---
 
-- 🌱 I’m currently learning new things in technology
+- 🧠 I’m currently exploring new things in technology
 - ⚡ Fun fact: ... I love to play football
 
 ---
@@ -47,14 +43,6 @@
 <div float="left" align="middle">
 <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayley96&layout=compact&theme=vision-friendly-dark" />
 </div>
-
-
-
-
-
-
-
-
 
 <!--
 **Hayley96/Hayley96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
