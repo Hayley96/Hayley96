@@ -8,7 +8,7 @@
 ---
 
 - 🧠 I’m currently exploring new things in technology
-- ⚡ Fun fact: ... I love to play football
+- ⚡ Fun fact: ... I like to play football, gaming, and exploring new places
 
 ---
 
